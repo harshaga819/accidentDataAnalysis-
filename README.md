@@ -24,7 +24,7 @@ Let’s visualize and analyze this data to uncover what’s behind the wheel of 
 **Insight**: Crashes spike during **evening rush hours** (5-8 PM) and in the winter months (December-January). Darkness and high traffic volumes are likely contributors.
 
 ![Chart Placeholder: Crashes by Hour and Month](images/crash_frequency_by_hour.png)
-![Chart Placeholder: Crashes by Hour and Month](images/crash_frequency_by_month.png)
+![Chart Placeholder: Crashes by Hour and Month](images/crash_frequency_by_months.png)
 
 ### **2. Weather Woes**
 **Insight**: Unsurprisingly, adverse weather conditions (like rain and snow) increase the likelihood of accidents. Clear weather accounts for most crashes but mainly due to higher traffic exposure during these times.
