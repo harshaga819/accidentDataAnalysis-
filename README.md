@@ -28,7 +28,7 @@ Let’s visualize and analyze this data to uncover what’s behind the wheel of 
 
 ### **2. Weather Woes**
 **Insight**: Unsurprisingly, adverse weather conditions (like rain and snow) increase the likelihood of accidents. Clear weather accounts for most crashes but mainly due to higher traffic exposure during these times.
-
+![](images/crash_frequency_by_month.png)
 **Pro Tip**: Rainy days? Slow it down and stay extra cautious.
 
 ### **3. Dangerous Lighting Conditions**
